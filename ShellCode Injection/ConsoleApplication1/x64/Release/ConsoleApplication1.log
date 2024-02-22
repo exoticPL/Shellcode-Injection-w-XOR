@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\exotic\Downloads\PrivilegeEscalationClass-main\PrivilegeEscalationClass-main\main.cpp(91,31): warning C4101: 'e': unreferenced local variable
+  Generating code
+  3 of 3 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\exotic\Desktop\Shellcode Inj\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
